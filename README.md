@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JasonSmi1
 - 👀 I’m interested in cloud computing and full-stack development
 - 🌱 I’m currently learning a little bit of both, but mostly front-end development.
-- 💞️ I’m looking to collaborate on any webpages that need to built!
+- 💞️ I’m looking to collaborate on any webpages that need to be built!
 - 📫 How to reach me: right here or at my e-mail, jp96smith@gmail.com!
 
 <!---
